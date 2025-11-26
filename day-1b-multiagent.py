@@ -169,7 +169,8 @@ def run_research_pipeline(user_query: str) -> str:
 
 # ============= Example usage =============
 if __name__ == "__main__":
-    query = "Explain the main benefits and challenges of containerized data centers."
+    # query = "Explain the main benefits and challenges of containerized data centers."
+    query = "What are the latest advancements in quantum computing and what do they mean for AI?"
     print("\n=== Query ===")
     print(query)
     print()
